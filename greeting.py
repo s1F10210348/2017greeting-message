@@ -10,7 +10,7 @@ def greet(name):
     else:
         message = 'Good evening'
 
-    print(message + name + '-san')
+    print(message + '-' + name + '-san')
 
 
 greet('Inoue')
